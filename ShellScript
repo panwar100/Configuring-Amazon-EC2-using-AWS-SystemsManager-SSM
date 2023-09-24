@@ -1,0 +1,5 @@
+yum install httpd -y
+systemctl start httpd
+systemctl enable httpd
+cd /var/www/html
+echo "welcome to my ssm">index.html
