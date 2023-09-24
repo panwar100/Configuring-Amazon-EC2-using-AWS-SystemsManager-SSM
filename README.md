@@ -47,10 +47,10 @@ Now that your EC2 instances are configured with SSM, you can use Systems Manager
 ### 5.Monitor and View Results:
 * You can monitor the progress and view the results of the SSM Run Command execution in the AWS Systems Manager console. This allows you to ensure that the desired configuration or automation task was executed successfully.
 ![14](https://github.com/panwar100/Configuring-Amazon-EC2-using-AWS-SystemsManager-SSM/assets/134361823/b1e23d19-3f64-4556-9020-1505e7059661)
-* If you want to make some changes to the code, click Copy to Run
+* If you want to make some changes to the code, click Copy to new.
 ![15](https://github.com/panwar100/Configuring-Amazon-EC2-using-AWS-SystemsManager-SSM/assets/134361823/b263f411-444a-4538-8f0e-f8d23127a39b)
-* change the command
-![16](https://github.com/panwar100/Configuring-Amazon-EC2-using-AWS-SystemsManager-SSM/assets/134361823/b3320fa1-8f1c-4e6e-b543-f7a0a1aa7a10)
+* change the command.
+* ![16](https://github.com/panwar100/Configuring-Amazon-EC2-using-AWS-SystemsManager-SSM/assets/134361823/b3320fa1-8f1c-4e6e-b543-f7a0a1aa7a10)
 ![17](https://github.com/panwar100/Configuring-Amazon-EC2-using-AWS-SystemsManager-SSM/assets/134361823/591a6a10-e5e0-42a3-8d1d-baa423a42b21)
 ![18](https://github.com/panwar100/Configuring-Amazon-EC2-using-AWS-SystemsManager-SSM/assets/134361823/cdda3b75-0231-4a42-9d84-9277674563c5)
 
